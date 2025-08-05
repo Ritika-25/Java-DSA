@@ -27,6 +27,3 @@ public  class maxfrequency {
         System.out.println("Frequency: " + maxFreq);
     }
 }
- {
-    
-}
